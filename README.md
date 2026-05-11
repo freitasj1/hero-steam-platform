@@ -1,126 +1,187 @@
-# ProjetoHERO - 2k23 - Equipe 2408
+<div align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/freitasj1/projeteHERO?style=for-the-badge)
+# H.E.RO (Legacy Project)
+### Hands-on Education in Robotics and Operations
 
-![GitHub language count](https://img.shields.io/github/languages/count/freitasj1/projeteHERO?style=for-the-badge)
+Legacy STEAM education platform developed and presented during the **43rd PROJETE — Project Exhibition of ETE FMC**.
 
+<img src="https://img.shields.io/github/repo-size/freitasj1/projeteHERO?style=for-the-badge"/>
 
-![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/y/freitasj1/projeteHERO?style=for-the-badge)
+<img src="https://img.shields.io/github/languages/count/freitasj1/projeteHERO?style=for-the-badge"/>
 
+<img src="https://img.shields.io/github/commit-activity/y/freitasj1/projeteHERO?style=for-the-badge"/>
 
-![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/freitasj1/ProjeteHERO?style=for-the-badge)
+<img src="https://img.shields.io/github/last-commit/freitasj1/ProjeteHERO?style=for-the-badge"/>
 
-
-
-
-
-# Título do Projeto
-
-> Repositorio destinado ao nosso Projeto.
-
-Nós somos a equipe 2408 formada por alunos do segundo ano técnico da escola ETEFMC. Nosso projeto consiste em uma plataforma de ensino de robótica chamada H.E.RO (hands-on Education in Robotics and Operations), que possui um objetivo de ensinar de forma interativa e dinâmica os assuntos da robótica. Além disso, nosso público alvo são pré adolescentes de 10 a 12 anos e escolas públicas.
-
-## Screenshots
-
-
-<div style="display: flex; justify-content: space-between;">
-    <img src="assets/img/esp32.png" alt="Imagem 1" width="30%">
-    <img src="assets/img/QRcodeSite.png" alt="Imagem 2" width="20%">
-    <img src="assets/img/fotoCarro.jpeg" alt="Imagem 3" width="30%">
 </div>
-y
 
+---
 
+# Overview
 
-## 💻 Vantagens
+H.E.RO (Hands-on Education in Robotics and Operations) is an educational robotics platform designed to introduce children and teenagers to STEAM concepts through practical and interactive learning experiences.
 
-- Desperta aptidão em pré-adolescentes pela robótica
-- Preço acessível para escolas públicas
-- Parte teórica e prática: Mão na massa!
+The project was developed by a team of technical high school students from **ETE FMC (Escola Técnica de Eletrônica Francisco Moreira da Costa)** and presented during the **43rd PROJETE** technology exhibition.
 
-## Lista de materiais
+The platform combines:
 
->Cada um pode montar do seu jeito, nosso exemplo é apenas uma demonstração do que a robótica pode fazer
+- Educational content
+- Hands-on robotics activities
+- Embedded systems development
+- Bluetooth-based mobile control
+- Introductory electronics and programming concepts
 
-- microcontrolador 
-- 4 motores dc + rodas
-- Base para fixar os componentes
-- ponte H de sua escolha 
+The main objective was to create an accessible and engaging robotics learning experience for students between 10 and 12 years old, especially in public schools.
 
+---
 
+# Educational Proposal
 
+The H.E.RO platform was designed to promote:
 
-## 📫Documentação
+- Introduction to STEAM education
+- Hands-on learning methodology
+- Basic electronics concepts
+- Introductory robotics
+- Logical reasoning and problem solving
+- Interest in technology and engineering
 
-> Confira nosso diario!
-<p align='center'> Em testes!
- 
-  <!-- <a href="https://eteacojeorg-my.sharepoint.com/:o:/g/personal/freitas_j_edu_etefmc_com_br/EgUp486kboZGrSqPbz-lGv4BfmcwCqUDRjT4-NkH4WhdEQ?e=SHGIee">
-    <img height="120em" src="assets/img/logoOneNote.png" />  
-  </a>&nbsp;&nbsp; -->
+The learning experience combines theoretical materials with practical assembly activities, allowing students to build and control their own robotic vehicle.
+
+---
+
+# System Architecture
+
+The platform consists of:
+
+- An ESP32-based robotic vehicle
+- Bluetooth communication
+- Mobile application control
+- Educational web platform with learning materials and videos
+- Mechanical assembly activities
+
+Students learn robotics concepts while assembling and controlling a Bluetooth-enabled robotic car.
+
+---
+
+# Features
+
+- ESP32-based robotics platform
+- Bluetooth remote control
+- Educational web platform
+- Robotics learning videos
+- Hands-on assembly experience
+- Low-cost educational approach
+- Introductory embedded systems concepts
+
+---
+
+# Hardware Components
+
+Example hardware configuration used in the project:
+
+- ESP32 DevKit
+- DC motors and wheels
+- Motor driver (H-bridge)
+- Chassis/base structure
+- Battery system
+- Bluetooth communication
+
+> The platform was intentionally designed to allow flexible assembly and adaptation using different components and materials.
+
+---
+
+# Technologies Used
+
+- ESP32 DevKit
+- Embedded C/C++
+- Bluetooth communication
+- GitHub Pages
+- HTML/CSS/JavaScript
+- Educational robotics concepts
+
+---
+
+# Project Gallery
+
+## Platform and Prototype
+
+<p align="center">
+    <img src="assets/img/esp32.png" alt="ESP32 Platform" width="30%">
+    <img src="assets/img/QRcodeSite.png" alt="Educational Platform" width="20%">
+    <img src="assets/img/fotoCarro.jpeg" alt="Robotic Vehicle" width="30%">
 </p>
 
+---
 
-## FAQ
+# Repository Contents
 
-#### Qual o objetivo de seu projeto?
+This repository contains several materials related to the project, including:
 
-Nosso projeto visa ensinar de forma interativa e  dinâmica os assuntos da robótica e despertar aptidão pela robótica.
+- Embedded firmware
+- Educational platform source code
+- Documentation
+- Presentation materials
+- Hardware references
+- Project assets and media
 
-#### Para quem é feito seu projeto?
+> Some repository sections remain preserved in their original educational development structure.
 
- Nosso público alvo consiste em pré adolescente de 10 a 12 anos de idade e escolas públicas.
+---
 
+# Documentation
 
-## 🕶️Autores
+The development diary and additional project documentation were originally maintained as part of the educational project workflow.
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="#">
-        <img src="assets/img/integrantes/anajuliaeditado2.png" width="100px" height="100px" alt="Ana júlia">
-        <br>
-        <sub><b>Ana Júlia</b></sub>
-        <p>Metodologia e documentação</p>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="assets/img/integrantes/Gvono.jpeg" width="100px" height="100px" alt="Vono">
-        <br>
-        <sub><b>Giovanna Vono</b></sub>
-        <p>Parte educacional e metodologia</p>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="assets/img/integrantes/enzo2.jpeg" width="100px" height="100px" alt="Nome da Pessoa 3">
-        <br>
-        <sub><b>Enzo</b></sub>
-        <p>Hardware e prototipagem</p>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.instagram.com/freitas.j1/">
-        <img src="assets/img/integrantes/Joaopedro.jpeg" width="100px" height="100px" alt="Nome da Pessoa 4">
-        <br>
-        <sub><b>João Pedro</b></sub>
-        <p>Software,IoT e Github</p>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="assets/img/integrantes/murilo.jpeg" width="100px" height="100px" alt="Nome da Pessoa 5">
-        <br>
-        <sub><b>Murilo</b></sub>
-        <p>Garra</p>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align='center'>
+  Documentation currently preserved for historical and educational purposes.
+</p>
 
+---
 
+# Lessons Learned
 
-## Licença
+This project represented an important early experience involving:
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](https://github.com/freitasj1/ProjeteHERO/blob/main/LICENSE) para mais detalhes.
+- Embedded systems development
+- ESP32-based applications
+- Bluetooth communication
+- Educational technology design
+- Web platform integration
+- Hardware/software interaction
+- Collaborative engineering projects
+
+The project also contributed to the development of practical skills related to technical documentation, prototyping, and interdisciplinary teamwork.
+
+---
+
+# Contributors
+
+- Ana Júlia — Methodology and Documentation
+- Giovanna Vono — Educational Content and Methodology
+- Enzo — Hardware and Prototyping
+- João Pedro — Software Development, IoT Integration and GitHub Management
+- Murilo — General Support
+
+---
+
+# License
+
+This project is licensed under the terms available in the [LICENSE](LICENSE) file.
+
+---
+
+# Legacy Project Notice
+
+This repository is maintained primarily for historical and educational purposes.
+
+H.E.RO represents an early-stage multidisciplinary engineering and educational technology project developed during technical high school education.  
+Although the architecture and organization reflect its educational context, the repository remains an important milestone involving:
+
+- Educational robotics
+- Embedded systems
+- ESP32 development
+- Bluetooth communication
+- STEAM education
+- Hands-on learning methodologies
+- Hardware/software integration
